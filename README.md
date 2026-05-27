@@ -33,6 +33,8 @@ hcmc-pm25-regression-analysis/
 │   └── Air Quality Ho Chi Minh City.csv   # Raw dataset (HealthyAir Project)
 ├── notebooks/
 │   └── PM25_HoChiMinh_Analysis.ipynb      # Main analysis Jupyter Notebook (Vietnamese)
+├── report/
+│   └── Báo_Cáo_PM25HCMC.docx              # Detailed project report (Vietnamese Word document)
 └── references/
     └── dataset_source.md              # Detailed dataset source & APA citations
 ```
